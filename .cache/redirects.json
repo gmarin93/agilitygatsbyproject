@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "fromPath": "/home",
+    "ignoreCase": true,
+    "toPath": "/"
+  }
+]
